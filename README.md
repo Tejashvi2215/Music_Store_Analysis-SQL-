@@ -1,2 +1,2 @@
 # Music_Store_Analysis-SQL-
-Through the utilization of SQL tools, I have conducted an in-depth data analysis on the Walmart dataset, resulting in comprehensive insights into the underlying structure and characteristics of the dataset.
+Utilizing SQL tools, I have executed a thorough data analysis on the music store dataset, thereby acquiring detailed insights into the dataset's composition, structure, and pertinent attributes.
